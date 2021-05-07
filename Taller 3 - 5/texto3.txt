@@ -1,0 +1,4 @@
+Cadena 1
+salto de linea
+final
+Escritas 3 lineas en fichero

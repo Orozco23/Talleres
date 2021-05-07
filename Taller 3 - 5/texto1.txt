@@ -1,0 +1,3 @@
+Primera forma (linea 1)
+de escribir en (linea 2)
+un archivo (linea 3)
